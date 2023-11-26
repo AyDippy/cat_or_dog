@@ -8,7 +8,7 @@ The dataset can be found on Kaggle. You can download it using the following link
 
 ## Data Splitting
 
-The dataset was split into training and testing sets with an 80-20 ratio. The splitting was performed using a Python script, and the details can be found in the `data_split.py` file in this repository.
+The dataset was split into training and testing sets with an 80-20 ratio. The splitting was performed using a Python script, and the details can be found in the `data_preparation.ipynb` file in this repository.
 
 ## Data Preprocessing
 
